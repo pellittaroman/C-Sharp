@@ -1,7 +1,0 @@
-D:\VisualStudio\prueba\prueba\bin\Debug\prueba.exe.config
-D:\VisualStudio\prueba\prueba\bin\Debug\prueba.exe
-D:\VisualStudio\prueba\prueba\bin\Debug\prueba.pdb
-D:\VisualStudio\prueba\prueba\obj\Debug\prueba.csprojAssemblyReference.cache
-D:\VisualStudio\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
-D:\VisualStudio\prueba\prueba\obj\Debug\prueba.exe
-D:\VisualStudio\prueba\prueba\obj\Debug\prueba.pdb
