@@ -1,7 +1,0 @@
-D:\VisualStudio\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe.config
-D:\VisualStudio\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe
-D:\VisualStudio\ejercicio5\ejercicio5\bin\Debug\ejercicio5.pdb
-D:\VisualStudio\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csprojAssemblyReference.cache
-D:\VisualStudio\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csproj.CoreCompileInputs.cache
-D:\VisualStudio\ejercicio5\ejercicio5\obj\Debug\ejercicio5.exe
-D:\VisualStudio\ejercicio5\ejercicio5\obj\Debug\ejercicio5.pdb
